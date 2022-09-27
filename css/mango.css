@@ -1,0 +1,89 @@
+.slider_area img {
+    width: 100%;
+}
+
+.section_title h3 {
+    color: #b191d6;
+}
+
+.pinkEmphasis {
+    color: #E02D53;
+}
+
+.wild_photography .section_title {
+    width: 80%;
+}
+
+.wild_photography .section_title h3 {
+    width: 80%;
+    font-size: 75px!important;
+    line-height: 80px;
+    color: black;
+}
+
+.wild_photography .container-fluid {
+    background: url('../cin/chandler.png');
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.testimonial_area {
+    background-color: white;
+}
+
+.plsCenter {
+    width: 60%;
+    margin:auto;
+    border: 2px solid #F6DDDF;
+}
+
+.templatePhoto {
+    width: 100%;
+    margin: auto;
+}
+
+.instragram_area {
+    margin-top: 100px;
+}
+
+.team_area {
+    padding-top: 0;
+}
+
+footer {
+    background: url('../cin/background.jpg');
+    background-size: 5%;
+    padding: 25px;
+}
+
+footer .copy_right {
+    color: #E02D53;
+}
+
+.index {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.index h3{
+    font-size: 35px;
+    color: #E02D53;
+}
+
+.index a, .index a:visited, a:hover{
+    color: #b191d6;
+    font-size: 18px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #b191d6;
+}
+
+.index img {
+    margin-top: 25px;
+    width: 80%;
+}
+
+.index p {
+    margin: 25px 0;
+}
