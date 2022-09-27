@@ -57,7 +57,7 @@ footer {
     padding: 25px;
 }
 
-footer .copy_right {
+footer .copy_right, footer p {
     color: #E02D53;
 }
 
@@ -86,4 +86,8 @@ footer .copy_right {
 
 .index p {
     margin: 25px 0;
+}
+
+.indexBody {
+    background-color: rgb(255, 234, 237);
 }
